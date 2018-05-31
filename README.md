@@ -2,3 +2,4 @@
 something fun
 '\'int i;'\'
 [^abcd]
+'wenzijiakuang'
